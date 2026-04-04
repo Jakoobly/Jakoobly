@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋
+
+My name is Jakob and I am a Business Informatics student (4th semester) at the University of Hohenheim.  
+I am currently focusing on developing my technical skills and will continue to update this page as I build more projects.
 
 <!--
 **Jakoobly/Jakoobly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
