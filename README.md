@@ -1,5 +1,5 @@
 # Hi, I am Jakob.
-I am a Business Informatics student (4th semester) at the University of Hohenheim. I am currently focusing on developing my technical skills and will continue to update this page as I build more projects.
+I am a Business Informatics student (5th semester) at the University of Hohenheim. I am currently focusing on developing my technical skills and will continue to update this page as I build more projects.
 
 
 ## 🌐 Socials:
