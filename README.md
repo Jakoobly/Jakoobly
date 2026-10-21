@@ -1,6 +1,8 @@
 # Hi, I am Jakob.
 I am a Business Informatics student (5th semester) at the University of Hohenheim. I am currently focusing on developing my technical skills and will continue to update this page as I build more projects.
 
+I am currently working as a software developer at Mercedes-Benz, while simultaneously working at the university in the field of econometrics and empirical economic research.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakob-zipperer) 
